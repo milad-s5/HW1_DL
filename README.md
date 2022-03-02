@@ -1,4 +1,5 @@
 # Sign Language MNIST (MLP, Tensorflow 1) 
+Repository for the Deep Learning HW1:  
 Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks.
 Developing the Neural Network Model for American Sign Language Recognition.
 
